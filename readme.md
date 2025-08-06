@@ -224,10 +224,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Kayke**
-- 📧 Email: [seu-email]
-- 💼 LinkedIn: [seu-linkedin]
-- 🐙 GitHub: [seu-github]
+**Kayke s.**
+- 📧 Email: kaykegy@proton.me   
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/kayke-g-171b7223a/">Linkedin-Kayke S.</a>
+- 🐙 GitHub: <a href="https://github.com/kaykesandes">GitHub-Kayke S.</a>
 
 ## 🙏 Agradecimentos
 
